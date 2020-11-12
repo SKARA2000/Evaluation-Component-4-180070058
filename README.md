@@ -8,4 +8,5 @@ Run the **Chebyshev_Filter_Bandstop.m** file to get the images for the Chebyshev
 Run the **BSF_FIR.m** file to get the images for the FIR Bandstop filter of Part 1. \
 Run the **Elliptic_Bandpass.m** file to get the images for the Elliptic Bandpass filter of Part 2. \
 Run the **Elliptic_Bandstop.m** file to get the images for the Elliptic Bandpass filter of Part 2. \
-**lpf_FIR.m** is just a utility script for generating ideal low pass filters whicha re used in **BPF_FIR.m** and **BSF_FIR.m** 
+**lpf_FIR.m** is just a utility script for generating ideal low pass filters whicha re used in **BPF_FIR.m** and **BSF_FIR.m** \
+Images are stored in the **images** folder and the Filter Design Report and the Question along with the reference document for the eeliptic filter design are stored in the **reports** folder.
